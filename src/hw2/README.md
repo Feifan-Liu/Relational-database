@@ -1,0 +1,1 @@
+Implemented relational operations, implemented the operations themselves then used JSQLparser to help translate SQL queries into these relational operations, effectively allowing users to query the data stored on the server.
